@@ -41,7 +41,7 @@ gem 'active_link_to'
 gem 'rails_admin', '~> 1.0'
 #gem 'rich', github: 'bastiaanterhorst/rich'
 gem "font-awesome-rails"
-gem 'devise'
+gem "devise", ">= 4.7.1"
 gem 'paperclip'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
