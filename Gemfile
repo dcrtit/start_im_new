@@ -38,7 +38,7 @@ gem 'active_link_to'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-gem 'rails_admin', '~> 1.0'
+gem 'rails_admin', '~> 1.4'
 #gem 'rich', github: 'bastiaanterhorst/rich'
 gem "font-awesome-rails"
 gem 'devise'
